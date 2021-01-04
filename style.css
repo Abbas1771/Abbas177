@@ -1,0 +1,111 @@
+/*First article*/
+.Abbas-1{
+background-color: green;
+}
+.index-h1{
+  color: white;
+  font-size: 40px;
+  margin-top: 0px;
+  text-align: center;
+  background-color: black;
+}
+.a-p1{
+  color: black;
+  font-size: 16px;
+  margin-top: 2px;
+  margin-left: 2px;
+  margin-right: 2px;
+  margin-bottom: 2px;
+  text-align: center;
+  background-color: lightgreen;
+  text-align: justify;
+}
+/*second article*/
+.Abbas-2{
+  background-color: black;
+}
+.a-h2{
+    color: black;
+    font-size: 40px;
+    margin-top: 0px;
+    text-align: center;
+    background-color: pink;
+  }
+.a-p2{
+    color: white;
+    font-size: 16px;
+    margin-top: 2px;
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-bottom: 2px;
+    text-align: center;
+    background-color: darkblue;
+    text-align: justify;
+  }
+}
+/*therd article*/
+.Abbas-3{
+  background-color: red;
+}
+.a-h3{
+  color: black;
+  font-size: 40px;
+  margin-top: 0px;
+  text-align: center;
+  background-color: pink;
+}
+.a-p3{
+  color: black;
+  font-size: 16px;
+  margin-top: 2px;
+  margin-left: 2px;
+  margin-right: 2px;
+  margin-bottom: 2px;
+  text-align: center;
+  background-color: lightgreen;
+  text-align: justify;
+}
+/*foruth article*/
+.Abbas-4{
+  background-color: red;
+}
+.a-h4{
+  color: white;
+  font-size: 40px;
+  margin-top: 0px;
+  text-align: center;
+  background-color: black;
+}
+.a-4{
+  color: black;
+  font-size: 16px;
+  margin-top: 2px;
+  margin-left: 2px;
+  margin-right: 2px;
+  margin-bottom: 2px;
+  text-align: center;
+  background-color: lightgreen;
+  text-align: justify;
+}
+/*fith article*/
+.Abbas-5{
+  background-color: yellow;
+}
+.h-5{
+  color: black;
+  font-size: 40px;
+  margin-top: 0px;
+  text-align: center;
+  background-color: pink;
+}
+.a-5{
+  color: black;
+  font-size: 16px;
+  margin-top: 2px;
+  margin-left: 2px;
+  margin-right: 2px;
+  margin-bottom: 2px;
+  text-align: center;
+  background-color: lightgreen;
+  text-align: justify;
+}
